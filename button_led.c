@@ -2,7 +2,7 @@
 #include "pico/stdlib.h"
 
 #define GPIO_BOTAO 5
-#define GPIO_LED 11
+#define GPIO_LED 16
 
 int main()
 {
